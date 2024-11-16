@@ -1,0 +1,3 @@
+[submodule "HackyCracky/Momentum-Firmware"]
+	path = HackyCracky/Momentum-Firmware
+	url = https://github.com/Next-Flip/Momentum-Firmware
