@@ -25,3 +25,15 @@
 [submodule "HackyCracky/espressif/esptool"]
 	path = HackyCracky/espressif/esptool
 	url = https://github.com/espressif/esptool
+[submodule "HackyCracky/wifi/hostapd-wpe"]
+	path = HackyCracky/wifi/hostapd-wpe
+	url = https://github.com/opensecurityresearch/hostapd-wpe
+[submodule "HackyCracky/wifi/aircrack-ng"]
+	path = HackyCracky/wifi/aircrack-ng
+	url = https://github.com/aircrack-ng/aircrack-ng
+[submodule "HackyCracky/wifi/mdk4"]
+	path = HackyCracky/wifi/mdk4
+	url = https://github.com/aircrack-ng/mdk4
+[submodule "HackyCracky/wifi/mdk3"]
+	path = HackyCracky/wifi/mdk3
+	url = https://github.com/aircrack-ng/mdk3

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+CARD="$1"
+shift
+AP="$1"
+shift
+
+for STA in $@; do
+    aireplay-ng $CARD -3 15 -a $AP -c $STA
+done
