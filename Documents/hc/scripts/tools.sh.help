@@ -1,6 +1,0 @@
-tools.sh - show list of tool lists, or list of tools in specified group
-
-Usage: `./tools.sh group` or `./tools.sh`
-
-
-Self-explanatory like the rest of these stupid help files
