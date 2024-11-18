@@ -1,4 +1,4 @@
-[submodule "HackyCracky/Momentum-Firmware"]
+[submodule "HackyCracky/flipper/fw/mntm-008"]
 	path = HackyCracky/flipper/fw/mntm-008
 	url = https://github.com/Next-Flip/Momentum-Firmware
 [submodule "HackyCracky/flipper/fw/rm-101"]
@@ -7,3 +7,6 @@
 [submodule "HackyCracky/espressif/esp-idf"]
 	path = HackyCracky/espressif/esp-idf
 	url = https://github.com/espressif/esp-idf
+[submodule "esp-idf"]
+	path = HackyCracky/espressif/esp-now
+	url = https://github.com/espressif/esp-now
