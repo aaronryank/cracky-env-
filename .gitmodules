@@ -16,3 +16,12 @@
 [submodule "HackyCracky/boards/arduino-cli"]
 	path = HackyCracky/boards/arduino-cli
 	url = https://github.com/arduino/arduino-cli
+[submodule "HackyCracky/pi/gpio/wiringpi"]
+	path = HackyCracky/pi/gpio/wiringpi
+	url = https://github.com/wiringpi/wiringpi
+[submodule "HackyCracky/pi/gpio/raphael-kit"]
+	path = HackyCracky/pi/gpio/raphael-kit
+	url = https://github.com/sunfounder/raphael-kit
+[submodule "HackyCracky/espressif/esptool"]
+	path = HackyCracky/espressif/esptool
+	url = https://github.com/espressif/esptool
