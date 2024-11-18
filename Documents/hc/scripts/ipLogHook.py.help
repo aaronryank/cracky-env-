@@ -1,0 +1,3 @@
+ipLogHook.py - a webhook that logs IP addresses sent by the remote machine
+
+Used as a `systemd` service

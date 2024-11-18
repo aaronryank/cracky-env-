@@ -1,0 +1,5 @@
+describe.sh - get the `apt-cache search` description of each package in a list
+
+Usage: `./describe.sh packages.list`
+
+`packages.list` is- believe it or not- a newline-separated list of packages, installed using `apt`, to grab descriptions of. This is usually generated with `apt-mark showmanual` or something of the sort.

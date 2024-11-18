@@ -1,0 +1,5 @@
+addpoint.sh - create a JSON element containing data relevant to a point to be mapped
+
+Usage: `./addpoint.sh file.json`
+
+`file.json` is- believe it or not- the JSON file that contains elements for points to be mapped. If `file.json` does not exist it will be created. If `file.json` is not supplied, `new.json` will be implied.

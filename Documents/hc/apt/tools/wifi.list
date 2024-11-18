@@ -1,0 +1,89 @@
+aircrack-ng - wireless WEP/WPA cracking utilities
+airgraph-ng - Tool to graph txt files created by aircrack-ng
+ap51-flash - firmware flasher for ethernet connected routers and access points
+ap-utils - Access Point SNMP Utils for Linux
+arjun - HTTP parameter discovery suite
+axel - light command line download accelerator
+batctl - B.A.T.M.A.N. advanced control and management tool
+bettercap - Complete, modular, portable and easily extensible MITM framework
+bpfmon - traffic monitor for BPF expression/iptables rule
+bwm-ng - small and simple console-based bandwidth monitor
+cbm - display in real time the network traffic speed
+ceni - Curses interface to /etc/network/interfaces
+cewl - custom word list generator
+dhcpdump - Parse DHCP packets from interface
+dnscap - Network capture utility designed specifically for DNS traffic
+dnsdiag - DNS request auditing toolset
+dnsenum - tool to enumerate domain DNS information
+dnsmap - DNS domain name brute forcing tool
+dublin-traceroute - NAT-aware multipath tracerouting tool
+ethstatus - console-based ethernet statistics monitor
+ethtool - display or change Ethernet device settings
+fierce - Domain DNS scanner
+firewalk - active reconnaissance network security tool
+geoip-bin - IP lookup command line tools that use the GeoIP library
+goldeneye - HTTP DoS test tool
+hping3 - Active Network Smashing Tool
+hunt - advanced packet sniffer and connection intrusion
+hydra - very fast network logon cracker
+inetutils-traceroute - trace the IPv4 route to another host
+ipgrab - tcpdump-like utility that prints detailed header information
+iproute2 - networking and traffic control tools
+isc-dhcp-client - DHCP client for automatically obtaining an IP address
+lft - layer-four traceroute
+lltdscan - Scan for LLTD-enabled hosts on your network
+mdk3 - Wireless attack tool for IEEE 802.11 networks
+mdk4 - Wireless attack tool for IEEE 802.11 networks
+mdns-scan - Scan for mDNS/DNS-SD services published on the local network
+mkchromecast - Cast your Linux audio or video to your Google Cast devices
+mtr - Full screen ncurses and X11 traceroute tool
+nast - packet sniffer and lan analyzer
+ncrack - High-speed network authentication cracking tool
+ndisc6 - IPv6 diagnostic tools
+netdiscover - active/passive network address scanner using ARP requests
+netselect - speed tester for choosing a fast network server
+netsniff-ng - Linux network packet sniffer toolkit
+net-tools - NET-3 networking toolkit
+netwox - networking utilities
+nftables - Program to control packet filtering rules by Netfilter project
+nmap - The Network Mapper
+ns2 - Discrete event simulator targeted at networking research
+nstreams - network streams - a tcpdump output analyzer
+packetsender - Utility for sending and receiving TCP, UDP, SSL, HTTP packets
+packit - network packet generator and capture tool
+plzip - parallel, lossless data compressor based on the LZMA algorithm
+pngcheck - print info and check PNG, JNG and MNG files
+png-definitive-guide - PNG: The Definitive Guide
+policykit-1 - transitional package for polkitd and pkexec
+poppler-utils - PDF utilities (based on Poppler)
+proxycheck - checks existence of open proxy
+puf - Parallel URL fetcher
+pwget - downloader utility which resembles wget (implemented in Perl)
+reaver - brute force attack tool against Wifi Protected Setup PIN number
+recon-ng - Web Reconnaissance framework written in Python
+scamper - parallel Internet measurement utility
+sipcrack - SIP login dumper/cracker
+sipgrep - command line tool to sniff, capture, display SIP messages
+sniffit - packet sniffer and monitoring tool
+socat - multipurpose relay for bidirectional data transfer
+spectools - Utilities for using the Wi-Spy USB spectrum analyzer hardware
+ssh-audit - tool for ssh server auditing
+ssh-import-id - securely retrieve an SSH public key and install it locally
+sslscan - Tests SSL/TLS enabled services to discover supported cipher suites
+tcpdump - command-line network traffic analyzer
+tcpflow - TCP flow recorder
+tcpreplay - Tool to replay saved tcpdump files at arbitrary speeds
+tcptraceroute - traceroute implementation using TCP packets
+tcptrace - Tool for analyzing tcpdump output
+tcpxtract - extract files from network traffic based on file signatures
+thc-ipv6 - The Hacker Choice's IPv6 Attack Toolkit
+traceroute - Traces the route taken by packets over an IPv4/IPv6 network
+tshark - network traffic analyzer - console version
+wapiti - web application vulnerability scanner
+wavemon - Wireless Device Monitoring Application
+weplab - tool designed to break WEP keys
+whatweb - Next generation web scanner
+whois - intelligent WHOIS client
+wifite - Python script to automate wireless auditing using aircrack-ng tools
+wireless-regdb - wireless regulatory database for Linux
+wireless-tools - Tools for manipulating Linux Wireless Extensions

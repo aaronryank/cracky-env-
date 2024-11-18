@@ -1,0 +1,27 @@
+augur - pipeline components for real-time virus analysis
+conky-all - highly configurable system monitor (all features enabled)
+console-data - keymaps, fonts, charset maps, fallback tables for 'kbd'.
+console-setup - console font and keymap setup program
+debconf - Debian configuration management system
+dtach - emulates the detach/attach feature of screen
+funcoeszz - script with 170+ useful mini applications
+help2man - Automatic manpage generator
+inxi - full featured system information script
+ir-keytable - Alter keymaps of Remote Controller devices
+kbd - Linux console font and keytable utilities
+keyboard-configuration - system-wide keyboard preferences
+keymapper - Keyboard map decision tree builder and interpreter
+lur-command - Logitech Unifying Receiver control tool
+logsave - save the output of a command in a log file
+lshw - information about hardware configuration
+lynis - security auditing tool for Unix based systems
+ncdu - ncurses disk usage viewer
+ogiops - Configuration utility for Logitech mice and keyboards
+pkg-config - manage compile and link flags for libraries (transitional package)
+pkgconf - manage compile and link flags for libraries
+procps - /proc file system utilities
+psmisc - utilities that use the proc file system
+scrot - command line screen capture utility
+strace - System call tracer
+syslog-ng - Enhanced system logging daemon (metapackage)
+wayfire - 3D Wayland compositor

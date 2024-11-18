@@ -1,0 +1,35 @@
+COMMON ARGUMENTS
+       --ignore-negative-one: Don't show self
+       -U, --uptime: Display APs uptime obtained from its beacon timestamp.
+       -M, --manufacturer: Display a manufacturer column (IEEE OUI list. See airodump-ng-oui-update)
+       -W, --wps: Display a WPS column with WPS version, config method(s), AP Setup Locked, etc.
+       -i, --ivs: only saves IVs (only useful for cracking). requires -w/--write
+       -g, --gpsd: try to use GPSd to get coordinates.
+       -w, --write <dumpfile prefix>
+       -e, --beacons: record all beacons into the cap file
+       -u, --update <secs between display refresh>
+       --berlin <secs before removing AP/STA after no longer seen>
+       -c, --channel <c,c,c,c,....>
+       -C <freq>[,<freq>[,...]]: Indicates the frequencies to listen to. By default airodump-ng hops on all 2.4GHz channels.
+       -b, --band <abg>: incompatible with -c
+FILTERING ARGUMENTS
+       -t, --encrypt <OPN|WEP|WPA|WPA1|WPA2|WPA3|OWE>: may be specified more than once but requires new arg each time
+       -d, --bssid <bssid>
+       -m, --netmask <mask>: match bssid ^ netmask; requires --bssid
+       -a: only show associated clients.
+       -n, --min-packets <min packs received by AP before displaying it>
+       -N, --essid: Filter APs by ESSID. Can be used several times to match a set of ESSID.
+       -R, --essid-regex: Filter APs by ESSID using a regular expression.
+INTERACTIVE
+       a      Select active areas by cycling through these display options: AP+STA; AP+STA+ACK; AP only; STA only
+       d      Reset sorting to defaults (Power); i to invert sorting
+       m      Mark the selected AP or cycle through different colors if the selected AP is already marked
+       o      Enable colored display of APs and their stations. (p to disable.)
+       s      Change  column  to sort by, which currently includes: First seen; BSSID; PWR level; Beacons; Data packets; Packet rate; Channel; Max. data
+              rate; Encryption; Strongest Ciphersuite; Strongest Authentication; ESSID
+
+       SPACE  Pause display redrawing/ Resume redrawing
+       TAB    Enable/Disable scrolling through AP list
+       UP     Select the AP prior to the currently marked AP in the displayed list if available
+       DOWN   Select the AP after the currently marked AP if available
+

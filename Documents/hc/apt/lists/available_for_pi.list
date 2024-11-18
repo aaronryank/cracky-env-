@@ -1,0 +1,121 @@
+ agnostics - Raspberry Pi Diagnostics
+ armv8-support - CPU feature checking - require ARMv8
+arping - sends IP and/or ARP pings (to the MAC address)
+authprogs - SSH Command Authenticator
+ bluez-firmware - Firmware for Bluetooth devices
+filespooler - Sequential, distributed, POSIX-style job queue processing
+ firmware-brcm80211 - Binary firmware for Broadcom/Cypress 802.11 wireless cards
+fonts-aenigma - 465 free TrueType fonts by Brian Kent
+ gldriver-test - Various graphics-related config services
+ imx500-tools - Development tools for Raspberry Pi AI Camera
+iputils-arping - Tool to send ICMP echo requests to an ARP address
+libboilerpipe-java - Boilerplate removal and fulltext extraction from HTML pages
+ libhipi-perl - Raspberry Pi GPIO Perl Modules
+libjs-jquery-colorpicker - full-featured colorpicker for jQuery UI
+ libpigpio1 - Library for Raspberry Pi GPIO control
+ libpigpio-dev - Client tools for Raspberry Pi GPIO control
+ libpigpiod-if1 - Client library for Raspberry Pi GPIO control (deprecated)
+ libpigpiod-if2-1 - Client library for Raspberry Pi GPIO control
+ libpigpiod-if-dev - Development headers for client libraries for Raspberry Pi GPIO control
+ libraspberrypi0-dbgsym - debug symbols for libraspberrypi0
+ libraspberrypi0 - Libraries for the Raspberry Pi's VideoCore IV
+ libraspberrypi-bin-dbgsym - debug symbols for libraspberrypi-bin
+ libraspberrypi-bin - Miscellaneous Raspberry Pi utilities
+ libraspberrypi-dev - Libraries for the Raspberry Pi's VideoCore IV (headers)
+ libraspberrypi-doc - Libraries for the Raspberry Pi's VideoCore IV (docs)
+ linux-support-6.1.0-rpi8 - Support files for Linux 6.1
+lsm - Link connectivity monitor tool
+luma.core-doc - doc for component library providing a Pillow-compatible drawing canvas
+luma.lcd-doc - doc for library interfacing small LCD displays
+luma.led-matrix-doc - doc for library interfacing LED matrix displays
+luma.oled-doc - doc for library interfacing OLED matrix displays
+ lxplug-volume - Volume plugin for lxpanel
+ minetest-mod-pycraft - Minetest mod - (most of) Raspberry PI Minecraft API
+node-ejs - Embedded JavaScript templates
+ orpie - RPN calculator for the terminal
+ pi-bluetooth - Raspberry Pi 3 bluetooth
+ picap - Pi Cap libraries and examples
+ piclone - SD Card backup program for Raspberry Pi
+ pigpiod - Client tools for Raspberry Pi GPIO control
+ pigpio - Raspberry Pi GPIO control transitional package.
+ pigpio-tools - Client tools for Raspberry Pi GPIO control
+ pi-greeter - GTK greeter for Raspberry Pi
+ pipanel - Settings panel for Raspberry Pi desktop appearance
+ pi-printer-support - Meta-package for Raspberry Pi printer support
+ pishutdown - Desktop shutdown helper for Raspberry Pi
+ piwiz-hs - Raspberry Pi first-run wizard for home-school programme
+ piwiz - Raspberry Pi first-run wizard
+ pixflat-icons - Icons for Raspberry Pi Desktop
+ pixflat-theme - PiXflat theme for Raspberry Pi desktop
+ pix-theme - PiX theme for Raspberry Pi desktop
+ pscan-chip - ChIP-based identifcation of TF binding sites
+ python3-build-hat - Python library for the Raspberry Pi Build HAT
+ python3-luma.core - component library providing a Pillow-compatible drawing canvas
+ python3-luma.lcd - library interfacing small LCD displays
+ python3-luma.led-matrix - library interfacing LED matrix displays
+ python3-luma.oled - library interfacing OLED matrix displays
+ python3-minecraftpi - Raspberry PI Minecraft API Python client library
+ python3-pianohat - Python library for the Pimoroni Piano HAT.
+ python3-picamera2 - Libcamera based python library
+ python3-picamzero - Library to make it easy for beginners to use the Raspberry Pi camera
+python3-pywws - software for wireless weather stations
+ python3-rainbowhat - Python library for the Pimoroni Rainbow HAT
+ python3-rpi-lgpio - Compatibility shim for lgpio emulating the RPi.GPIO API
+python3-scapy - Packet generator/sniffer and network scanner/discovery (Python 3)
+ python3-sense-emu - Client library for the Raspberry Pi Sense HAT emulator.
+ python3-sense-hat - Sense HAT python library (Python 3)
+ python3-touchphat - python library designed to control Touch pHAT
+ python-blinkt - Python library for the Pimoroni Blinkt!
+ python-build-hat-doc - Python library for the Raspberry Pi Build HAT, documentation
+ python-buttonshim - Python library for the Pimoroni Button SHIM
+ python-periphery-doc - Peripheral I/O (Documentation)
+ python-pianohat - Python library for the Pimoroni Piano HAT.
+ python-rainbowhat - Python library for the Pimoroni Rainbow HAT
+ python-rpi-lgpio-doc - Compatibility shim for lgpio emulating the RPi.GPIO API - docs
+ python-sense-emu - Client library for the Raspberry Pi Sense HAT emulator.
+ python-sense-emu-doc - Documentation for the Raspberry Pi Sense HAT emulator.
+ python-touchphat - python library designed to control Touch pHAT
+ raindrop - Screen configuration tool for Raspberry Pi Desktop
+ raspberrypi-archive-keyring - GnuPG archive keys of the Raspberry Pi OS archive
+ raspberrypi-bootloader - Raspberry Pi bootloader
+ raspberrypi-kernel-headers - Header files for the Raspberry Pi Linux kernel
+ raspberrypi-kernel - Raspberry Pi bootloader
+ raspberrypi-net-mods - Network configuration for the Raspberry Pi UI
+ raspberrypi-sys-mods - System tweaks for the Raspberry Pi
+ raspberrypi-ui-mods - Config to customise the LXDE UI for the Raspberry Pi
+ raspi-copies-and-fills - ARM-accelerated versions of selected functions from string.h
+ raspi-copies-and-fills-dbgsym - debug symbols for raspi-copies-and-fills
+ raspi-gpio-dbgsym - debug symbols for raspi-gpio
+ raspi-gpio - Dump the state of the BCM270x GPIOs
+ raspi-utils - Collection of scripts and simple applications
+ raspi-utils-core - Collection of scripts and simple applications
+ raspi-utils-core-dbgsym - debug symbols for raspi-utils-core
+ raspi-utils-dbgsym - debug symbols for raspi-utils
+ raspi-utils-dt-dbgsym - debug symbols for raspi-utils-dt
+ raspi-utils-dt - Device Tree overlay utilities
+ raspi-utils-eeprom-dbgsym - debug symbols for raspi-utils-eeprom
+ r-cran-colourpicker - GNU R colour picker tool for selecting colours in plots
+ rp-bookshelf - Raspberry Pi publications
+ rpd-plym-splash - Raspberry Pi Desktop splashscreen
+ rpd-wallpaper-4k - 4K Wallpaper for Raspberry Pi Desktop
+ rpd-wallpaper - Wallpaper for Raspberry Pi Desktop
+ rpiboot-dbgsym - debug symbols for rpiboot
+ rpicam-apps-dbgsym - debug symbols for rpicam-apps
+ rpicam-apps-hailo-postprocess-dbgsym - debug symbols for rpicam-apps-hailo-postprocess
+ rpicam-apps-imx500-postprocess-dbgsym - debug symbols for rpicam-apps-imx500-postprocess
+ rpicam-apps-lite-dbgsym - debug symbols for rpicam-apps-lite
+ rpi-eeprom-images - transitional package
+ rpi-imager-dbgsym - debug symbols for rpi-imager
+ rp-prefapps - Raspberry Pi recommended applications
+ sense-emu-tools - Emulator for the Raspberry Pi Sense HAT.
+ steamlink - The Steam Link app brings desktop gaming to your Raspberry Pi. Just pair a controller to your device, connect to a computer running Steam on the same local network, and start playing your existing Steam games.
+suckless-tools - simple commands for minimalistic window managers
+usbbootgui - usbboot GUI
+ userconf-pi - Raspberry Pi tool to rename a user
+welle.io - DAB/DAB+ Software Radio
+ wf-panel-pi-dev - Raspberry Pi desktop panel for Wayfire - plugin API
+ wf-panel-pi - Raspberry Pi desktop panel for Wayfire
+ wfplug-connect - Raspberry Pi Connect plugin for wf-panel-pi
+xtables-addons-common - Additional targets and matches for iptables [tools, libs]
+xtables-addons-dkms - Additional targets and matches for iptables [sources for DKMS]
+xtables-addons-source - Additional targets and matches for iptables [sources for module-assistant]

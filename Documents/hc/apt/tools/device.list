@@ -1,0 +1,19 @@
+dcfldd - enhanced version of dd for forensics and security
+ddrutility - set of data recovery utilities for use with GNU ddrescue
+dmidecode - SMBIOS/DMI table decoder
+dmitry - Deepmagic Information Gathering Tool
+flashrom - Identify, read, write, erase, and verify BIOS/ROM/flash chips
+gpiod - Tools for interacting with Linux GPIO character device - binary
+hwinfo - Hardware identification system
+i2c-tools - heterogeneous set of I2C tools for Linux
+kicad - Electronic schematic and PCB design software
+membernator - Tool to scan membership cards to establish if they are valid
+minicom - Friendly menu driven serial communication program
+nwipe - Utility to securely erase disks
+openocd - Open on-chip JTAG/SWD debug solution for embedded target devices
+ponyprog - Serial device programmer
+qdl - tool to flash images to Qualcomm processors
+qflipper - Flipper Zero firmware updater
+stm32flash - STM32 chip flashing utility using a serial bootloader
+uvccapture - USB UVC Video Class snapshot software
+winregfs - Windows registry FUSE filesystem

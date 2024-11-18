@@ -1,0 +1,32 @@
+SPECIFIC-USE-CASE ARGUMENTS
+       --showack:
+              Prints ACK/CTS/RTS statistics. Helps in debugging and general injection optimization. It is indication if you  inject,  inject  too  fast,
+              reach  the  AP,  the frames are valid encrypted frames. Allows one to detect "hidden" stations, which are too far away to capture high bi‐
+              trate frames, as ACK frames are sent at 1Mbps.
+       -h:    Hides known stations for --showack.
+       -s, --cswitch <method>: Defines the way airodump-ng sets the channels when using more than one card.
+              Valid values: 0 (FIFO, default value), 1 (Round Robin)  or  2
+              (Hop on last).
+       -2, --ht20: Set the channel to be in HT20 (802.11n).
+       -3, --ht40+: Set  the channel to be in HT40+ (802.11n). It requires the frequency 20MHz above to be available (4 channels above) and thus some
+                    channels are not usable in HT40+. Only channels up to 7 are available in HT40+ in the US (and 9 in most of Europe).
+       -5, --ht40-: Set the channel to be in HT40- (802.11n). It requires the frequency 20MHz below to be available (4 channels be)low and thus some
+                    channels are not usable in HT40-. In 2.4GHz, HT40- channels start at channel 5.
+       -r <file to read packets from>
+       -T, --real-time: simulate realtime reading from file
+
+       --output-format <formats>
+              Define  the formats to use (separated by a comma). Possible values are: pcap, ivs, csv, gps, kismet, netxml. The default values are: pcap,
+              csv, kismet, kismet-newcore.  'pcap' is for recording a capture in pcap format, 'ivs' is for ivs format (it  is  a  shortcut  for  --ivs).
+              'csv' will create an airodump-ng CSV file, 'kismet' will create a kismet csv file and 'kismet-newcore' will create the kismet netxml file.
+              'gps' is a shortcut for --gps.
+              Theses values can be combined with the exception of ivs and pcap.
+
+       -I <seconds>, --write-interval <seconds>
+              Output file(s) write interval for CSV, Kismet CSV and Kismet NetXML in seconds (minimum: 1 second). By default: 5 seconds.  Note  that  an
+              interval too small might slow down airodump-ng.
+
+       -K <enable>, --background <enable>
+              Override automatic background detection. Use "0" to force foreground settings and "1" to force background settings. It will not make airo‐
+              dump-ng run as a daemon, it will skip background autodetection and force enable/disable of interactive mode and display updates.
+
