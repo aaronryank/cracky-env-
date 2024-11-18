@@ -10,3 +10,9 @@
 [submodule "esp-idf"]
 	path = HackyCracky/espressif/esp-now
 	url = https://github.com/espressif/esp-now
+[submodule "HackyCracky/flipper/appsrc/_external/Momentum-Apps"]
+	path = HackyCracky/flipper/appsrc/_external/Momentum-Apps
+	url = https://github.com/Next-Flip/Momentum-Apps
+[submodule "HackyCracky/boards/arduino-cli"]
+	path = HackyCracky/boards/arduino-cli
+	url = https://github.com/arduino/arduino-cli
