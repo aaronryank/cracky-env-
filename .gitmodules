@@ -1,3 +1,6 @@
 [submodule "HackyCracky/Momentum-Firmware"]
 	path = HackyCracky/Momentum-Firmware
 	url = https://github.com/Next-Flip/Momentum-Firmware
+[submodule "HackyCracky/flipper/fw/rm-101"]
+	path = HackyCracky/flipper/fw/rm-101
+	url = https://github.com/RogueMaster/flipperzero-firmware-wplugins
