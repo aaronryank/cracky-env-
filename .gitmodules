@@ -37,3 +37,6 @@
 [submodule "HackyCracky/wifi/mdk3"]
 	path = HackyCracky/wifi/mdk3
 	url = https://github.com/aircrack-ng/mdk3
+[submodule "HackyCracky/tor-browser"]
+	path = HackyCracky/tor-browser
+	url = https://gitlab.torproject.org/tpo/applications/tor-browser
