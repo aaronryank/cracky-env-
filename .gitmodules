@@ -40,3 +40,6 @@
 [submodule "HackyCracky/tor-browser"]
 	path = HackyCracky/tor-browser
 	url = https://gitlab.torproject.org/tpo/applications/tor-browser
+[submodule "HackyCracky/flipper/appsrc/flipperzero-wifi-marauder"]
+	path = HackyCracky/flipper/appsrc/flipperzero-wifi-marauder
+	url = https://github.com/0xchocolate/flipperzero-wifi-marauder
