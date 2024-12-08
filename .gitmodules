@@ -43,3 +43,6 @@
 [submodule "HackyCracky/flipper/appsrc/flipperzero-wifi-marauder"]
 	path = HackyCracky/flipper/appsrc/flipperzero-wifi-marauder
 	url = https://github.com/0xchocolate/flipperzero-wifi-marauder
+[submodule "HackyCracky/flipper/apps/src/Momentum-Apps"]
+	path = HackyCracky/flipper/apps/src/Momentum-Apps
+	url = https://github.com/Next-Flip/Momentum-Apps
