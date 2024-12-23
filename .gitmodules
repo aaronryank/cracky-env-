@@ -40,3 +40,6 @@
 [submodule "HackyCracky/flipper/apps/src/Momentum-Apps"]
 	path = HackyCracky/flipper/apps/src/Momentum-Apps
 	url = https://github.com/Next-Flip/Momentum-Apps
+[submodule "HackyCracky/micropython"]
+	path = HackyCracky/micropython
+	url = https://github.com/micropython/micropython
